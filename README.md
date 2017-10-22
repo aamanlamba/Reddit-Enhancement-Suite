@@ -1,4 +1,5 @@
 # Reddit Enhancement Suite
+* TO-DO: Compile for Mac OSX, look at keyboard shortcuts - ADL 10/22/17
 
 [![Travis Build Status](https://travis-ci.org/honestbleeps/Reddit-Enhancement-Suite.svg?branch=master)](https://travis-ci.org/honestbleeps/Reddit-Enhancement-Suite)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/honestbleeps/Reddit-Enhancement-Suite?branch=master&svg=true)](https://ci.appveyor.com/project/honestbleeps/Reddit-Enhancement-Suite)
